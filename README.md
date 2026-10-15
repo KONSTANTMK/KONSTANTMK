@@ -19,7 +19,7 @@ Developed and maintained projects at Playrix - Gardenscapes, Homescapes, Mystery
 - ⚡ **Optimization and performance.** CPU / GPU and memory profiling with Unity Profiler, Memory Profiler and Frame Debugger, reducing draw calls, fixing OOM crashes and ANR, stability monitoring via Crashlytics and Android Vitals
 - 🏗️ **Architecture.** Scalable client architecture with MVP, MVVM and DI, refactoring legacy code, modular and configurable systems that let the team extend features without code changes
 - 📈 **Game systems and LiveOps.** Live-ops events, meta features and game mechanics, matchmaking, analytics and event tracking, content delivery and A/B tests via Firebase Remote Config
-- 🛠️ **Tools and automation.** Custom Editor tools and content pipelines, automated asset validation, CI/CD, AI-assisted development and code review
+- 🛠️ **Tools and automation.** Unity Editor extensions, AI asset validation (n8n), process automation with Claude Code and Unity MCP, a centralized Skills base for the team
 - 👥 **Team and processes.** Code review, mentoring, technical standards and documentation, collaboration between game design, technical design and programming
 
 I work with Scrum and Kanban, in teams from small ones to 20+ people. I take part in project decomposition, estimation and sprint planning, and review decompositions and plans of other developers. Outside work I play RPG and Souls-like games, genres that help me grow both as a player and as a developer.
@@ -38,5 +38,5 @@ Master's degree in Information Systems and Technologies.
 | **Backend and Data** | PostgreSQL, MongoDB, Oracle, SQL, REST API, UnityWebRequest, WebSockets, JSON |
 | **Cooperation** | Git, GitHub, GitLab, Bitbucket, Jira, Asana, Confluence, Agile (Scrum, Kanban), code review, technical mentorship, technical documentation |
 | **CI/CD** | GitHub Actions, TeamCity, GitLab CI/CD, Jenkins, CMake, Docker, Kubernetes, Git LFS, Linux, Bash |
-| **AI-Assisted Dev** | Claude Code, Unity MCP, AI code review agent in CI (GitHub Actions and Claude Opus), AI-assisted refactoring, decomposition and rapid prototyping |
+| **AI-Assisted Dev** | Claude Code, Unity MCP |
 | **Languages** | English (B2), Russian (Native) |
