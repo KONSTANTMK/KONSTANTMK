@@ -38,5 +38,5 @@ Master's degree in Information Systems and Technologies.
 | **Backend and Data** | PostgreSQL, MongoDB, Oracle, SQL, REST API, UnityWebRequest, WebSockets, JSON |
 | **Cooperation** | Git, GitHub, GitLab, Bitbucket, Jira, Asana, Confluence, Agile (Scrum, Kanban), code review, technical mentorship, technical documentation |
 | **CI/CD** | GitHub Actions, TeamCity, GitLab CI/CD, Jenkins, CMake, Docker, Kubernetes, Git LFS, Linux, Bash |
-| **AI-Assisted Dev** | Claude Code, Unity MCP |
+| **AI Tools** | Claude Code, Unity MCP |
 | **Languages** | English (B2), Russian (Native) |
