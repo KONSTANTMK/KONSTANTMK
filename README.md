@@ -28,15 +28,15 @@ Master's degree in Information Systems and Technologies.
 
 ### 🛠️ Tech Stack
 
-| | |
-|---|---|
-| **Programming Languages** | C#, C++ |
-| **Architecture** | OOP, SOLID, MVC, MVP, MVVM, Clean Architecture, design patterns, clean code, algorithms, data structures |
-| **Unity Ecosystem** | Zenject, VContainer, ECS (LeoECS), DOTS, Job System, UniRx / R3, UniTask, Asset Bundles, Addressables, Sprite Atlas, ScriptableObject, Unity UI (uGUI), TextMeshPro, Odin Inspector, DOTween, Spine 2D, Animator, URP, Built-in RP, Shader Graph, HLSL, Graphics API (Vulkan, Metal, OpenGL ES), Photon PUN, Photon Fusion, Netcode, Mirror, Nakama, Azure PlayFab, Unity Gaming Services (UGS), Unity Profiler, Memory Profiler, Frame Debugger, Unity Test Framework (NUnit) |
-| **Platforms** | iOS (Xcode), Android (Gradle), PC (Steam), WebGL |
-| **Analytics** | Firebase (Remote Config, Analytics, Crashlytics, A/B Testing), Amplitude, Adjust, AppsFlyer, AppLovin MAX, LevelPlay (IronSource), Gridly, IAP, Google Play Console (Android Vitals), App Store Connect |
-| **Backend and Data** | PostgreSQL, MongoDB, Oracle, SQL, REST API, UnityWebRequest, WebSockets, JSON |
-| **Cooperation** | Git, GitHub, GitLab, Bitbucket, Jira, Asana, Confluence, Agile (Scrum, Kanban), code review, technical mentorship, technical documentation |
-| **CI/CD** | GitHub Actions, TeamCity, GitLab CI/CD, Jenkins, CMake, Docker, Kubernetes, Git LFS, Linux, Bash |
-| **AI Tools** | Claude Code, Unity MCP |
-| **Languages** | English (B2), Russian (Native) |
+<table>
+  <tr><td><b>Programming Languages</b></td><td>C#, C++</td></tr>
+  <tr><td><b>Architecture</b></td><td>OOP, SOLID, MVC, MVP, MVVM, Clean Architecture, design patterns, clean code, algorithms, data structures</td></tr>
+  <tr><td><b>Unity Ecosystem</b></td><td>Zenject, VContainer, ECS (LeoECS), DOTS, Job System, UniRx / R3, UniTask, Asset Bundles, Addressables, Sprite Atlas, ScriptableObject, Unity UI (uGUI), TextMeshPro, Odin Inspector, DOTween, Spine 2D, Animator, URP, Built-in RP, Shader Graph, HLSL, Graphics API (Vulkan, Metal, OpenGL ES), Photon PUN, Photon Fusion, Netcode, Mirror, Nakama, Azure PlayFab, Unity Gaming Services (UGS), Unity Profiler, Memory Profiler, Frame Debugger, Unity Test Framework (NUnit)</td></tr>
+  <tr><td><b>Platforms</b></td><td>iOS (Xcode), Android (Gradle), PC (Steam), WebGL</td></tr>
+  <tr><td><b>Analytics</b></td><td>Firebase (Remote Config, Analytics, Crashlytics, A/B Testing), Amplitude, Adjust, AppsFlyer, AppLovin MAX, LevelPlay (IronSource), Gridly, IAP, Google Play Console (Android Vitals), App Store Connect</td></tr>
+  <tr><td><b>Backend and Data</b></td><td>PostgreSQL, MongoDB, Oracle, SQL, REST API, UnityWebRequest, WebSockets, JSON</td></tr>
+  <tr><td><b>Cooperation</b></td><td>Git, GitHub, GitLab, Bitbucket, Jira, Asana, Confluence, Agile (Scrum, Kanban), code review, technical mentorship, technical documentation</td></tr>
+  <tr><td><b>CI/CD</b></td><td>GitHub Actions, TeamCity, GitLab CI/CD, Jenkins, CMake, Docker, Kubernetes, Git LFS, Linux, Bash</td></tr>
+  <tr><td><b>AI Tools</b></td><td>Claude Code, Unity MCP</td></tr>
+  <tr><td><b>Languages</b></td><td>English (B2), Russian (Native)</td></tr>
+</table>
